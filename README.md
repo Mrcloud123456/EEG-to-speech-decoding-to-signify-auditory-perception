@@ -1,2 +1,2 @@
 # EEG-to-speech-decoding-to-signify-auditory-perception
-Master thesis
+Annotations pending further additions.
